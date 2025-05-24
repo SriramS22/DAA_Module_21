@@ -16,8 +16,8 @@ To write a python program to implement pattern matching on the given string usin
 ```
 /*
 Program to implement the Pattern Matching.
-Developed by: Gokul J 
-Register Number: 212222230038  
+Developed by: Gokularamanan K
+RegisterNumber: 212222230040
 */
 
 def KMPSearch(pat, txt):
