@@ -16,8 +16,8 @@ To write a python program to find the solution of sudoku puzzle using Backtracki
 ```
 /*
 Program to implement to to find the solution of sudoku puzzle using Backtracking.
-Developed by: Gokularamanan K
-RegisterNumber: 212222230040
+Developed by: sriram s
+RegisterNumber: 212222240105
 */
 
 board = [
